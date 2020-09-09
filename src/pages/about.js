@@ -9,7 +9,7 @@ import IMG_24 from '../assets/images/IMG_24.jpg';
 const Landing = (props) => (
 	<Layout>
 		<Helmet>
-			<title>PWr in Spaceport</title>
+			<title>PWr in Space</title>
 			<meta name="description" content="Landing Page" />
 		</Helmet>
 
