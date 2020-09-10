@@ -7,25 +7,6 @@ const Contact = (props) => (
 	<section id="contact">
 		<div className="inner">
 			<section>
-				{/* <form method="post" action="#">
-                    <div className="field half first">
-                        <label htmlFor="name">Imię</label>
-                        <input type="text" name="name" id="name" />
-                    </div>
-                    <div className="field half">
-                        <label htmlFor="email">Email</label>
-                        <input type="text" name="email" id="email" />
-                    </div>
-                    <div className="field">
-                        <label htmlFor="message">Wiadomość</label>
-                        <textarea name="message" id="message" rows="6"></textarea>
-                    </div>
-                    <ul className="actions">
-                        <li><input type="submit" value="Wyślij" className="special" /></li>
-                        <li><input type="reset" value="Wyczyść" /></li>
-                    </ul>
-                </form> */}
-
 				<div
 					id="formularz-kontaktowy"
 					class="contact"
@@ -108,23 +89,6 @@ const Contact = (props) => (
 						<span className="icon alt fa-envelope" />
 						<h3>Email</h3>
 						<a href="#" />
-					</div>
-				</section>
-				{/* <section>
-                    <div className="contact-method">
-                        <span className="icon alt fa-phone"></span>
-                        <h3>Phone</h3>
-                        <span>(000) 000-0000 x12387</span>
-                    </div>
-                </section> */}
-				<section>
-					<div className="contact-method">
-						<span className="icon alt fa-home" />
-						<h3>Adres</h3>
-						<span>
-							<br />
-							<br />
-						</span>
 					</div>
 				</section>
 			</section>
