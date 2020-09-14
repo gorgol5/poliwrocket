@@ -163,12 +163,12 @@ ul {
 					color: _palette(bg);
 
 					&:hover {
-						background-color: _palette(highlight);
+						background-color: #018ede;
 						color: _palette(bg) !important;
 					}
 
 					&:active {
-						background-color: desaturate(darken(_palette(highlight), 15), 5);
+						background-color: #018ede;
 					}
 				}
 			}
