@@ -5,7 +5,11 @@
 ///
 
 /* Image */
-
+@media (min-width: 980px) {
+	.spotlights .image {
+		height: 30vw !important;
+	}
+}
 .image {
 	border: 0;
 	display: inline-block;
