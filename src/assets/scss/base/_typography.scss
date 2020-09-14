@@ -41,18 +41,18 @@ a {
 
 	&:hover {
 		border-bottom-color: transparent;
-		color: _palette(highlight) !important;
+		color: #018ede !important;
 	}
 
 	&:active {
-		color: desaturate(darken(_palette(highlight), 15), 5) !important;
+		color: #018ede !important;
 	}
 }
 
 strong,
 b {
-	color: _palette(fg-bold);
-	font-weight: _font(weight-bold);
+	color: #018ede;
+	font-weight: #018ede;
 }
 
 em,
