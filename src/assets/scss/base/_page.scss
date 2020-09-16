@@ -14,9 +14,7 @@ body {
 @include breakpoint(xsmall) {
 	html,
 	body {
-		min-width: 316px;
-		margin-left: 5px;
-		margin-right: 5px;
+		min-width: 320px;
 	}
 }
 
