@@ -31,7 +31,7 @@ const News = (props) => (
 			</section>
 			<section id="two" className="spotlights">
 				<section>
-					<Link to="/generic" className="image">
+					<Link to="/generic" className="news-image image">
 						<img src={IMG_26} alt="" />
 					</Link>
 					<div className="content">
@@ -56,7 +56,7 @@ const News = (props) => (
 					</div>
 				</section>
 				<section>
-					<Link to="/generic" className="image">
+					<Link to="/generic" className="news-image image">
 						<img src={pic09} alt="" />
 					</Link>
 					<div className="content">
@@ -81,7 +81,7 @@ const News = (props) => (
 					</div>
 				</section>
 				<section>
-					<Link to="/generic" className="image">
+					<Link to="/generic" className=" news-image image">
 						<img src={pic10} alt="" />
 					</Link>
 					<div className="content">

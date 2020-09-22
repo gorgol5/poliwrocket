@@ -26,7 +26,7 @@ const Landing = (props) => (
 			</section>
 			<section id="two" className="spotlights">
 				<section>
-					<img src={IMG_24} alt="" />
+					<img class="about-img" src={IMG_24} alt="" />
 					<div className="content">
 						<div className="inner">
 							<header className="major">
